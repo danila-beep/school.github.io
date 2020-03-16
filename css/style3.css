@@ -1,0 +1,43 @@
+.container {
+    width: 1040px;
+    margin: auto;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+.site-header{
+    background-color: #3A015C;
+    color: white;
+}
+
+.up{
+    display: flex;
+    justify-content: space-around;
+}
+
+.up img{
+    width: 400px;
+    height: 300px;
+}
+
+.down{
+    background-color: black;
+    color: white;
+    font:  14px Comic Sans MS;
+}
+
+.site-footer{
+    height: 20px;
+    background-color: #3A015C;
+    font: 14px Comic Sans MS;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+a{
+    color: white
+}

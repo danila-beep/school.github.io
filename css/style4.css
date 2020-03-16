@@ -1,0 +1,61 @@
+.container {
+    width: 1040px;
+    margin: auto;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+.site-header{
+    background-color: #3A015C;
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+.why{
+    padding: 10px;
+    margin: 40px;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    font: 14px Comic Sans MS;
+}
+
+.why img{
+    width: 300px;
+    height: 200px;
+}
+
+.after{
+    padding: 10px;
+    margin: 40px;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    font: 14px Comic Sans MS;    
+}
+
+.after img{
+    width: 300px;
+    height: 200px;
+}
+
+.site-footer{
+    height: 20px;
+    background-color: #3A015C;
+    font: 14px Comic Sans MS;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+a{
+    color: white
+}
